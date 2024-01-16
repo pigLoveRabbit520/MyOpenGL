@@ -1,0 +1,8 @@
+bin/*.exe
+bin/*.ilk
+bin/*.pdb
+bin/*.dll
+obj/
+x64/
+/.vs
+*.suo
